@@ -2,11 +2,13 @@
   "name": "react-native-expo",
   "displayName": "react-native-expo",
   "expo": {
-    "name": "react-native-expo",
-    "slug": "react-native-expo",
+    "name": "React Native Memory Game",
+    "slug": "react-native-memory-game",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "This tutorial allowed me to explore Expo and it's built in vector icons!",
+    "githubUrl": "https://github.com/AB984"
   }
 }
